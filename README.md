@@ -47,7 +47,7 @@ Also, results from the NFL Draft are tracked by [Pro-Football-Reference.com](htt
 
 ![NFL Draft Results](images/draft_results.png)
 
-The data collected for this investigation begins with the 1994 Draft, where the NFL transitioned to a seven-round draft format, and continues until the 2019 Draft. Although the 2020 Combine has been completed, the 2020 Draft has not been conducted at the time of this investigation, so 2020 will cannot be included.
+The data collected for this investigation begins with the 1994 Draft, where the NFL transitioned to a seven-round draft format, and continues until the 2019 Draft. Although the 2020 Combine has been completed, the 2020 Draft has not been conducted at the time of this investigation, so 2020 is not included.
 
 A player was determined to be a "top-performer" in a Combine drill if they recorded a score in the top 10% within their draft year, and grouped by position. The draft year groupings were necessary because players are only competing to be a 1st round draft pick with players from their own draft year. The position groupings were necessary because of the vast differences in physical makeup of the players at different positions. For example, the fastest of the 300-lb Offensive Tackles would not be considered a top-performer if grouped together with the speedy Wide Receivers. 
 
